@@ -50,7 +50,8 @@
             <input type="text" id="info" name="info" style="width: 200px">
                 &emsp; &emsp;
             </form>
-            <button>Submit</button>
+            <button type="button" class="btn btn-success">Submit</button>        
+
         </div>
     </div>
 </asp:Content>

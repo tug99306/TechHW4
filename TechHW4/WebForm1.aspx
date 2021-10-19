@@ -6,6 +6,7 @@
     <h2 class="text-center">Home</h2>
     <p class="text-center">Welcome to the Pet Medication System. Built to make the process of ordering prescriptions for pets easier. </p>
     <br>
+    <div style="margin: 50px">
     <p><strong>Vets</strong></p>
     <ul>
         <li>Able to enter pet and medication information.</li>
@@ -20,5 +21,6 @@
     <ul>
         <li>Able to complete and place an out of stock conflict on the medication</li>
     </ul>
+        </div>
 
 </asp:Content>
