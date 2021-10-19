@@ -26,7 +26,7 @@
                     <a class="nav-link" href="MedList.aspx">Medication List</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Medication Entry</a>
+                    <a class="nav-link" href="MedEntry.aspx">Medication Entry</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link">Login</a>
